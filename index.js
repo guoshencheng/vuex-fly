@@ -1,1 +1,1 @@
-export * from './bin/fly.js';
+export * from './bin/fly.js'
